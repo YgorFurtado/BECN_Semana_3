@@ -1,4 +1,4 @@
-#Bibliotecas Necessárias teste
+#Bibliotecas Necessárias
 import matplotlib.pyplot as plt
 import pandas as pd
 
