@@ -1,0 +1,3 @@
+-Tenha certeza de ter instalado todas as bibliotecas necessárias
+-Ao iniciar o programa, ele irá abrir uma janela pedindo um arquivo
+-Selecione o arquivo .csv correspondente ao script que voce iniciou(as tabelas .csv estão na pasta tabelas)
