@@ -2,9 +2,14 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 import scipy.stats as sci
+import tkinter as tk
+from tkinter import filedialog
 
 #Importa a tabela de dados
-sheet = pd.read_csv("Tabela 2(Papel).csv")
+root = tk.Tk()
+root.withdraw()
+tabela_papel = filedialog.askopenfilename()
+sheet = pd.read_csv(tabela_papel)
 
 #Converte os valores da tabela em arrays 1d:
 massa = (sheet[["massa"]].to_numpy()).flatten()
