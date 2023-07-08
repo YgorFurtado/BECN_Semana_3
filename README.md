@@ -24,4 +24,4 @@ Na pasta "Gráfico" existem 2 arquivos .py utilizados para criar os gráficos ut
 
 * execute os arquivos python com o compilador de sua preferencia
 * No caso da calculadora, digite os 3 valores que voce quer calcular a média
-* No caso do Gráfico, selecione a tabela correspondente ao arquivo que voce executou
+* No caso do Gráfico, selecione a tabela correspondente ao arquivo que voce executou(disponiveis na subpasta /Tabelas)
