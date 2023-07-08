@@ -18,7 +18,7 @@ Na pasta "Gráfico" existem 2 arquivos .py utilizados para criar os gráficos ut
 ### Instalação
 
 * Verifique se todas as bibliotecas necesssarias estão instaladas.
-  matplotlib, pandas, numpy, scipy e  tkinter.
+* elas são: matplotlib, pandas, numpy, scipy e  tkinter.
 
 ### Execução
 
