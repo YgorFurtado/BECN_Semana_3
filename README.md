@@ -4,25 +4,21 @@ Códigos usados para calcular média, desvio padrão e também Criar os gráfico
 
 ## Descrição
 
-Na pasta "# Project Title
+Na pasta "Calculo Média e Desvio Padrão" existe um arquivo .py que calcula a média e desvio padrão de 3 numeros(Usado para calcular os valores para o diametro das esferas).
+Na pasta "Gráfico" existem 2 arquivos .py utilizados para criar os gráficos utilizados nos exercícios.
 
-Simple overview of use/purpose.
 
-## Description
 
-An in-depth paragraph about your project and overview of use.
+## Utilização:
 
-## Getting Started
+### Dependencias
 
-### Dependencies
+* Python 3.11
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+### Instalação
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Verifique se todas as bibliotecas necesssarias estão instaladas.
+  
 
 ### Executing program
 
